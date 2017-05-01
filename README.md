@@ -7,7 +7,7 @@ This project attempts to reproduce the [LED-it-go attack](https://arxiv.org/ftp/
 - **Receiver**: Design an optical receiver that permits data reception and decoding
 
 ## Deliverables
-This project culminated in a report linked [here](ISP_Report.pdf) and a presentation linked [here](FinalPPDpresentation.pdf).
+This project culminated in a report linked [here](report.pdf) and a presentation linked [here](presentation.pdf).
 
 ## Credits
 - Denver Cohen
